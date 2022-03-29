@@ -1,2 +1,5 @@
 # cryptocurrency-course-missing-materials
-Missing materials for courses of Bitcoin and Cryptocurrency Technologies in Princeton University. https://www.coursera.org/learn/cryptocurrency/home/welcome
+
+Missing materials for Bitcoin and Cryptocurrency Technologies courses on Coursera in Princeton University.
+
+Courses: <https://www.coursera.org/learn/cryptocurrency/home/welcome>
